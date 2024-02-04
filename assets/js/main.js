@@ -1,10 +1,4 @@
-/**
-* Template Name: SoftLand
-* Updated: Jan 29 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/softland-bootstrap-app-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
@@ -95,6 +89,7 @@
   /**
    * Testimonials slider
    */
+
   new Swiper('.testimonials-slider', {
     speed: 600,
     loop: true,
@@ -123,3 +118,4 @@
   });
 
 })()
+
